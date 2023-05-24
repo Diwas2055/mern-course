@@ -84,4 +84,13 @@ npx nodemon src/server.ts
 ## React App with TypeScript
 ```bash
 npx create-react-app frontend --template typescript
+
+# or (If you want to use `npm` as your package manager)
+
+npx create-react-app keeptrack --template typescript --use-npm
 ```
+
+
+## References
+- [Complete MERN Beginner Course](https://www.youtube.com/watch?v=FcxjCPeicvU&ab_channel=CodinginFlow)
+- [React Tutorial using TypeScript](https://handsonreact.com/docs/labs/react-tutorial-typescript)
