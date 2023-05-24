@@ -76,3 +76,12 @@ node server.js
 ```bash
 npx nodemon src/server.ts
 ```
+
+
+
+
+
+## React App with TypeScript
+```bash
+npx create-react-app frontend --template typescript
+```
